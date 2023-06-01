@@ -1,4 +1,4 @@
-# Why Golden Retrievers are the best dog.
+## Why Golden Retrievers are the best dog.
 
 | Reason | Why Golden Retrievers are the best |
 |---|---|
